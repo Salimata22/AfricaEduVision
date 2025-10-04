@@ -156,7 +156,9 @@ st.title("Conclusion et Réflexions personnelles")
 st.markdown("""
 ### 1. Alphabétisation homme-femme  
 Les données ont confirmé mes doutes.  
-Il y a plus de femmes que d’hommes dans le monde et dans les pays, pourtant, de 2006 à 2022, le taux d’alphabétisation des femmes est resté inférieur à celui des hommes, même si les deux sont corrélés.
+Il y a plus de femmes que d’hommes en Afrique.
+Pourtant, de 2006 à 2022, le taux d’alphabétisation des femmes est resté inférieur à celui des hommes.
+Même si les deux sont corrélés.
 
 ---
 
