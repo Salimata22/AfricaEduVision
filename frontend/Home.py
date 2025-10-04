@@ -147,6 +147,7 @@ st.markdown("""
     <a href="/Predictions">Prévisions</a>
     <a href="/Comparaison">Comparaisons</a>
     <a href="/Methodologie">Méthodologie</a>
+    <a href="/Conclusion"> Conclusion</a>
 </div>
 """, unsafe_allow_html=True)
 
