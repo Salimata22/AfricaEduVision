@@ -71,7 +71,7 @@ AfricaEduML/
 
 ### 1. Cloner le projet sur bash
 
-git clone https://github.com/toncompte/AfricaEduVision.git
+git clone https://github.com/Salimata22/AfricaEduVision.git
 cd AfricaEduVision/frontend
 
 ### 2. Créer un environnement virtuel
