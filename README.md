@@ -47,23 +47,7 @@ Elle permet d’analyser, de comparer et de prédire l’évolution de l’alpha
 - **Scikit-learn** pour le Machine Learning (Random Forest)
 - **TensorFlow / Keras** pour le Deep Learning (LSTM)
 
----
 
-## Structure du projet
-
-AfricaEduML/
-│── frontend/
-│ ├── Home.py # Page d’accueil
-│ ├── pages/
-│ │ ├── 1_EDA.py # Analyse exploratoire
-│ │ ├── 2_Predictions.py # Prévisions
-│ │ ├── 3_Comparaison.py # Comparaisons
-│ │ └── 4_Methodologie.py # Méthodologie
-│ ├── Images/ # Logos et visuels
-│── data/
-│ └── Africa_Education_Development_Top30_ClusterImputed.csv
-│── Rapport_AfricaEduVision.docx
-│── README.md
 
 ---
 
