@@ -193,7 +193,9 @@ with col2:
 # CHIFFRES CLÉS
 # =========================
 # Charger le dataset et calculer les moyennes générales
-df = pd.read_csv("../data/Africa_Education_Development_Top30_ClusterImputed.csv")
+data_path = os.path.join("data", "Africa_Education_Development_Top30_ClusterImputed.csv")
+df = pd.read_csv(data_path)
+
 mean_female = df["Literacy_Female_Adult"].mean()   # Moyenne alphabétisation femmes adultes
 mean_male = df["Literacy_Male_Adult"].mean()       # Moyenne alphabétisation hommes adultes
 mean_fertility = df["Fertility_Rate"].mean()       # Moyenne du taux de fécondité
