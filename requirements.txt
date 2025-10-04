@@ -1,0 +1,32 @@
+# Manipulation et analyse de données
+pandas
+numpy
+
+# Visualisation
+matplotlib
+plotly
+seaborn   # optionnel
+
+# Machine Learning & Prétraitement
+scikit-learn
+xgboost   # optionnel
+
+# Web app (frontend)
+streamlit
+streamlit-option-menu   # optionnel
+
+# API backend (optionnel)
+fastapi
+uvicorn
+
+# Prévisions et séries temporelles
+prophet
+cmdstanpy
+
+# Deep Learning
+tensorflow
+# torch   # optionnel, si tu veux tester PyTorch
+
+# Divers
+pyarrow
+statsmodels
